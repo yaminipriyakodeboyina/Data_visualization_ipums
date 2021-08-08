@@ -1,13 +1,13 @@
 # Data Visualization
 
 ## Steps to run the code
-1. This project needs R to run the code
+1. This project needs R to run the code. open "highered_00001.r" file in the repository
 2. set the working directory in R to the folder you downloaded the code. if you don't set the path correctly, code gives error
 `setwd("path to the folder")`
 4. Install packages tidyverse and plotly.
  `install.packages("plotly")`
  `install.packages("tidyverse")`
-3. start from line 6 to run the code
+3. start from line 6 in highered_00001.r to run the code
 
 
 ## Introduction
