@@ -27,40 +27,40 @@
 
 ## Code Explanation
 
-### Plot-1  line 16 to 21
+#### Plot-1  line 16 to 21
 Bar chat gives 2 main details of data
 1. Total count of people in that age group (Each bar represents no of people in that age group)
 2. count of people in each highest degree attained category(colours represent count of people attained particalr highest degree in each bar)
 3. Place the cursor on desired bar to get more details.
 
-### Plot-2 Line 22-26
+#### Plot-2 Line 22-26
 Bar chart gives female and male count in each age group
 Place the cursor on the chart to get more details
 
-### Plot-3 Line 27-30
+#### Plot-3 Line 27-30
 Plot-3 bar chart gives the female and male count of people who atained their highest degree
 
-### Plot-4 Line 31-46
+#### Plot-4 Line 31-46
 1.Plot-4 is a pie chart gives the percentage of people in highest degree attained category
 2.This plots gives a good idea about how data is distributed amoung highest degrees
 
-### Plot-5 Line 47-60
+#### Plot-5 Line 47-60
 1. Average salary of the people in each highest degree attained category.
 Here average salary of Professional > Doctorate > Master's > Bachelor's
 2. It means people who attained highest degree has more chances to get high paid jobs
 
-### Plot-6 Line 62-73
+#### Plot-6 Line 62-73
 1. median of the job satisfaction of the working people in each highest degree attained category
 2. Most of the professionals are Very satisfied
 3. other categories have median as Somewhat satisfied
 
 
-### Plot-7 Line 75-86
+#### Plot-7 Line 75-86
 1. line graph for Average salary of people in different field of major in highest degree
 2. People who did engineering has highest average salary 91040 dollars. So engineering is a place where students are more likely to get highly paid jobs.
 
 
-### Conclusion
+#### Conclusion
 From the above graphs especially plot 5 says that
 1.Higher education helps students to place them in highly paid jobs.
 
